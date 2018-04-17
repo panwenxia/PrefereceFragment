@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">prefereceFragment</string>
+    <string-array name="list">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charlie Option 02</item>
+    </string-array>
+</resources>

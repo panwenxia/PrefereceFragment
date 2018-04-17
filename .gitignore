@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+app/libs/
+app/build/
+app/*iml
+app/src/androidTest/
+app/src/test/
+app/src/main/java/edu/fjnu/cse/preferecefragment/MainActivity.java
+/captures
+.externalNativeBuild
